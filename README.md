@@ -1,5 +1,12 @@
 # logcopilot
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/logcopilot/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/logcopilot/actions)
+![License](https://img.shields.io/github/license/yksanjo/logcopilot)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/logcopilot)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/logcopilot)
+
 ## Detailed Description
 
 logcopilot is maintained as an industry-grade software project with production-ready engineering practices.  
